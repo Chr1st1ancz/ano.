@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        /*naucim se bruh*/
         Scanner sc = new Scanner(System.in);
         System.out.println("Zadej cislo");
         int a = sc.nextInt();
